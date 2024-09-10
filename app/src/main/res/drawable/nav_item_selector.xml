@@ -1,0 +1,5 @@
+<!-- res/drawable/nav_item_selector.xml -->
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:color="#00FF00" android:state_checked="true" /> <!-- Green when selected -->
+    <item android:color="#FFFFFF" /> <!-- White when not selected -->
+</selector>

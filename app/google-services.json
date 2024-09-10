@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1095031113913",
+    "project_id": "sense-ai-33ca8",
+    "storage_bucket": "sense-ai-33ca8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1095031113913:android:43505a90c8d69550f53368",
+        "android_client_info": {
+          "package_name": "com.example.senseai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1095031113913-cb7a2c8v80jko6o6pm638e74l4sv08nt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.senseai",
+            "certificate_hash": "c0f665f6a5129a2f90a3aee54027717aac8c54f9"
+          }
+        },
+        {
+          "client_id": "1095031113913-7o4guf8rg2c9a0k1jf7isekhfob77n8m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmKkDGmC1wBneZ8DSf-i9QTzQxxHJ2c_I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1095031113913-7o4guf8rg2c9a0k1jf7isekhfob77n8m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
